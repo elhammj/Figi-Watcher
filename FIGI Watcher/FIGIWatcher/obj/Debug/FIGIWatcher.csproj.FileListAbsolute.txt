@@ -1,0 +1,60 @@
+H:\elham project\elham project\SmartRefri\SmartRefri\bin\Debug\SmartRefri.exe.config
+H:\elham project\elham project\SmartRefri\SmartRefri\bin\Debug\SmartRefri.exe
+H:\elham project\elham project\SmartRefri\SmartRefri\bin\Debug\SmartRefri.pdb
+H:\elham project\elham project\SmartRefri\SmartRefri\bin\Debug\AForge.Video.DirectShow.dll
+H:\elham project\elham project\SmartRefri\SmartRefri\bin\Debug\AForge.Video.dll
+H:\elham project\elham project\SmartRefri\SmartRefri\bin\Debug\tesseractengine3.dll
+H:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\ResolveAssemblyReference.cache
+H:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.BarCodeImageControl.resources
+H:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.CategoryNameControl.resources
+H:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.ShowItemWithDelete.resources
+H:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.ExpiryCriteriaControl.resources
+H:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.Form1.resources
+H:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.Properties.Resources.resources
+H:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.SettingsPanel.resources
+H:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.ShowItem.resources
+H:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.ShowItemsList.resources
+H:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.WelcomePanel.resources
+H:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\FIGIWatcher.csproj.GenerateResource.Cache
+H:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.exe
+H:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.pdb
+C:\Users\TOSHIBA\Desktop\April 23\FIGIWatcher\bin\Debug\SmartRefri.exe.config
+C:\Users\TOSHIBA\Desktop\April 23\FIGIWatcher\bin\Debug\SmartRefri.exe
+C:\Users\TOSHIBA\Desktop\April 23\FIGIWatcher\bin\Debug\SmartRefri.pdb
+C:\Users\TOSHIBA\Desktop\April 23\FIGIWatcher\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\TOSHIBA\Desktop\April 23\FIGIWatcher\bin\Debug\AForge.Video.dll
+C:\Users\TOSHIBA\Desktop\April 23\FIGIWatcher\bin\Debug\tesseractengine3.dll
+C:\Users\TOSHIBA\Desktop\April 23\FIGIWatcher\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\April 23\FIGIWatcher\obj\Debug\SmartRefri.BarCodeImageControl.resources
+C:\Users\TOSHIBA\Desktop\April 23\FIGIWatcher\obj\Debug\SmartRefri.CategoryNameControl.resources
+C:\Users\TOSHIBA\Desktop\April 23\FIGIWatcher\obj\Debug\SmartRefri.ShowItemWithDelete.resources
+C:\Users\TOSHIBA\Desktop\April 23\FIGIWatcher\obj\Debug\SmartRefri.ExpiryCriteriaControl.resources
+C:\Users\TOSHIBA\Desktop\April 23\FIGIWatcher\obj\Debug\SmartRefri.Form1.resources
+C:\Users\TOSHIBA\Desktop\April 23\FIGIWatcher\obj\Debug\SmartRefri.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\April 23\FIGIWatcher\obj\Debug\SmartRefri.SettingsPanel.resources
+C:\Users\TOSHIBA\Desktop\April 23\FIGIWatcher\obj\Debug\SmartRefri.ShowItem.resources
+C:\Users\TOSHIBA\Desktop\April 23\FIGIWatcher\obj\Debug\SmartRefri.ShowItemsList.resources
+C:\Users\TOSHIBA\Desktop\April 23\FIGIWatcher\obj\Debug\SmartRefri.WelcomePanel.resources
+C:\Users\TOSHIBA\Desktop\April 23\FIGIWatcher\obj\Debug\FIGIWatcher.csproj.GenerateResource.Cache
+C:\Users\TOSHIBA\Desktop\April 23\FIGIWatcher\obj\Debug\SmartRefri.exe
+C:\Users\TOSHIBA\Desktop\April 23\FIGIWatcher\obj\Debug\SmartRefri.pdb
+C:\Users\TOSHIBA\Desktop\app\April 23\FIGIWatcher\bin\Debug\SmartRefri.exe.config
+C:\Users\TOSHIBA\Desktop\app\April 23\FIGIWatcher\obj\Debug\SmartRefri.exe
+C:\Users\TOSHIBA\Desktop\app\April 23\FIGIWatcher\obj\Debug\SmartRefri.pdb
+C:\Users\TOSHIBA\Desktop\app\April 23\FIGIWatcher\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\app\April 23\FIGIWatcher\obj\Debug\SmartRefri.BarCodeImageControl.resources
+C:\Users\TOSHIBA\Desktop\app\April 23\FIGIWatcher\obj\Debug\SmartRefri.CategoryNameControl.resources
+C:\Users\TOSHIBA\Desktop\app\April 23\FIGIWatcher\obj\Debug\SmartRefri.ShowItemWithDelete.resources
+C:\Users\TOSHIBA\Desktop\app\April 23\FIGIWatcher\obj\Debug\SmartRefri.ExpiryCriteriaControl.resources
+C:\Users\TOSHIBA\Desktop\app\April 23\FIGIWatcher\obj\Debug\SmartRefri.Form1.resources
+C:\Users\TOSHIBA\Desktop\app\April 23\FIGIWatcher\obj\Debug\SmartRefri.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\app\April 23\FIGIWatcher\obj\Debug\SmartRefri.SettingsPanel.resources
+C:\Users\TOSHIBA\Desktop\app\April 23\FIGIWatcher\obj\Debug\SmartRefri.ShowItem.resources
+C:\Users\TOSHIBA\Desktop\app\April 23\FIGIWatcher\obj\Debug\SmartRefri.ShowItemsList.resources
+C:\Users\TOSHIBA\Desktop\app\April 23\FIGIWatcher\obj\Debug\SmartRefri.WelcomePanel.resources
+C:\Users\TOSHIBA\Desktop\app\April 23\FIGIWatcher\obj\Debug\FIGIWatcher.csproj.GenerateResource.Cache
+C:\Users\TOSHIBA\Desktop\app\April 23\FIGIWatcher\bin\Debug\SmartRefri.exe
+C:\Users\TOSHIBA\Desktop\app\April 23\FIGIWatcher\bin\Debug\SmartRefri.pdb
+C:\Users\TOSHIBA\Desktop\app\April 23\FIGIWatcher\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\TOSHIBA\Desktop\app\April 23\FIGIWatcher\bin\Debug\AForge.Video.dll
+C:\Users\TOSHIBA\Desktop\app\April 23\FIGIWatcher\bin\Debug\tesseractengine3.dll

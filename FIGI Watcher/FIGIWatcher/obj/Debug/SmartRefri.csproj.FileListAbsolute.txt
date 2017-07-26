@@ -1,0 +1,53 @@
+C:\Users\lubna\Documents\Visual Studio 2008\Projects\SmartRefri\SmartRefri\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lubna\Documents\Visual Studio 2008\Projects\SmartRefri\SmartRefri\obj\Debug\SmartRefri.Properties.Resources.resources
+C:\Users\lubna\Documents\Visual Studio 2008\Projects\SmartRefri\SmartRefri\obj\Debug\SmartRefri.csproj.GenerateResource.Cache
+C:\Users\lubna\Documents\Visual Studio 2008\Projects\SmartRefri\SmartRefri\bin\Debug\SmartRefri.exe
+C:\Users\lubna\Documents\Visual Studio 2008\Projects\SmartRefri\SmartRefri\bin\Debug\SmartRefri.pdb
+C:\Users\lubna\Documents\Visual Studio 2008\Projects\SmartRefri\SmartRefri\obj\Debug\SmartRefri.exe
+C:\Users\lubna\Documents\Visual Studio 2008\Projects\SmartRefri\SmartRefri\obj\Debug\SmartRefri.pdb
+C:\Documents and Settings\Ba!SS!eM\Desktop\elham project\SmartRefri\SmartRefri\bin\Debug\SmartRefri.exe.config
+C:\Documents and Settings\Ba!SS!eM\Desktop\elham project\SmartRefri\SmartRefri\bin\Debug\SmartRefri.exe
+C:\Documents and Settings\Ba!SS!eM\Desktop\elham project\SmartRefri\SmartRefri\bin\Debug\SmartRefri.pdb
+C:\Documents and Settings\Ba!SS!eM\Desktop\elham project\SmartRefri\SmartRefri\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ba!SS!eM\Desktop\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.BarCodeImageControl.resources
+C:\Documents and Settings\Ba!SS!eM\Desktop\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.CategoryNameControl.resources
+C:\Documents and Settings\Ba!SS!eM\Desktop\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.Form1.resources
+C:\Documents and Settings\Ba!SS!eM\Desktop\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.Properties.Resources.resources
+C:\Documents and Settings\Ba!SS!eM\Desktop\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.csproj.GenerateResource.Cache
+C:\Documents and Settings\Ba!SS!eM\Desktop\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.exe
+C:\Documents and Settings\Ba!SS!eM\Desktop\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.pdb
+G:\elham project\elham project\SmartRefri\SmartRefri\bin\Debug\SmartRefri.exe.config
+G:\elham project\elham project\SmartRefri\SmartRefri\bin\Debug\SmartRefri.exe
+G:\elham project\elham project\SmartRefri\SmartRefri\bin\Debug\SmartRefri.pdb
+G:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\ResolveAssemblyReference.cache
+G:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.BarCodeImageControl.resources
+G:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.CategoryNameControl.resources
+G:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.ExpiryCriteriaControl.resources
+G:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.Form1.resources
+G:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.Properties.Resources.resources
+G:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.ShowItem.resources
+G:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.ShowItemsList.resources
+G:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.WelcomePanel.resources
+G:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.csproj.GenerateResource.Cache
+G:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.exe
+G:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.pdb
+H:\elham project\elham project\SmartRefri\SmartRefri\bin\Debug\SmartRefri.exe.config
+H:\elham project\elham project\SmartRefri\SmartRefri\bin\Debug\SmartRefri.exe
+H:\elham project\elham project\SmartRefri\SmartRefri\bin\Debug\SmartRefri.pdb
+H:\elham project\elham project\SmartRefri\SmartRefri\bin\Debug\AForge.Video.DirectShow.dll
+H:\elham project\elham project\SmartRefri\SmartRefri\bin\Debug\AForge.Video.dll
+H:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\ResolveAssemblyReference.cache
+H:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.BarCodeImageControl.resources
+H:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.CategoryNameControl.resources
+H:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.ExpiryCriteriaControl.resources
+H:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.Form1.resources
+H:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.Properties.Resources.resources
+H:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.ShowItem.resources
+H:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.ShowItemsList.resources
+H:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.WelcomePanel.resources
+H:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.csproj.GenerateResource.Cache
+H:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.exe
+H:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.pdb
+H:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.SettingsPanel.resources
+H:\elham project\elham project\SmartRefri\SmartRefri\obj\Debug\SmartRefri.ShowItemWithDelete.resources
+H:\elham project\elham project\SmartRefri\SmartRefri\bin\Debug\tesseractengine3.dll
